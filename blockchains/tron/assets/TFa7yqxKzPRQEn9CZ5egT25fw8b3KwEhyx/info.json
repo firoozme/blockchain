@@ -1,0 +1,11 @@
+{
+    "name": "Tethera",
+    "symbol": "USTT",
+    "type": "TRC20",
+    "decimals": 18,
+     "description": "Tethera (USTT) is a TRC20-compliant cryptocurrency designed for fast and secure transactions on the TRON blockchain. With a fixed supply and customizable features, USTT is ideal for use in decentralized applications, token-based ecosystems, and as a store of value. Built with transparency and efficiency in mind, Tethera ensures seamless integration and usability for its holders."
+    "website": "https://unixex.org/",
+    "explorer": "https://tronscan.org/#/contract/TFa7yqxKzPRQEn9CZ5egT25fw8b3KwEhyx/code",
+    "status": "active",
+    "id": "TFa7yqxKzPRQEn9CZ5egT25fw8b3KwEhyx"
+}
